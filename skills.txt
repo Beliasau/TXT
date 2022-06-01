@@ -1,0 +1,10 @@
+- Postman
+- Jmeter
+- CheckLists
+- Bag Reports
+- SQL
+- Charles
+- Mobile testing
+- Git
+- XML
+- Json
